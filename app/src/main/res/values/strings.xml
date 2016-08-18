@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShareActionProviderApp</string>
+    <string name="mShareText">Share</string>
+</resources>
